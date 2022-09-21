@@ -1,0 +1,15 @@
+C:\Users\Developer\source\repos\Administración\Controlador\bin\Debug\Controlador.dll
+C:\Users\Developer\source\repos\Administración\Controlador\bin\Debug\Controlador.pdb
+C:\Users\Developer\source\repos\Administración\Controlador\obj\Debug\Controlador.csproj.AssemblyReference.cache
+C:\Users\Developer\source\repos\Administración\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\Developer\source\repos\Administración\Controlador\obj\Debug\Controlador.dll
+C:\Users\Developer\source\repos\Administración\Controlador\obj\Debug\Controlador.pdb
+C:\Users\Developer\Desktop\proyectofinalasis222022\Codigo\Modulos\Administración\Controlador\bin\Debug\Controlador.dll
+C:\Users\Developer\Desktop\proyectofinalasis222022\Codigo\Modulos\Administración\Controlador\bin\Debug\Controlador.pdb
+C:\Users\Developer\Desktop\proyectofinalasis222022\Codigo\Modulos\Administración\Controlador\bin\Debug\Modelo.dll
+C:\Users\Developer\Desktop\proyectofinalasis222022\Codigo\Modulos\Administración\Controlador\bin\Debug\Modelo.pdb
+C:\Users\Developer\Desktop\proyectofinalasis222022\Codigo\Modulos\Administración\Controlador\obj\Debug\Controlador.csproj.AssemblyReference.cache
+C:\Users\Developer\Desktop\proyectofinalasis222022\Codigo\Modulos\Administración\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Desktop\proyectofinalasis222022\Codigo\Modulos\Administración\Controlador\obj\Debug\Controlador.csproj.CopyComplete
+C:\Users\Developer\Desktop\proyectofinalasis222022\Codigo\Modulos\Administración\Controlador\obj\Debug\Controlador.dll
+C:\Users\Developer\Desktop\proyectofinalasis222022\Codigo\Modulos\Administración\Controlador\obj\Debug\Controlador.pdb
